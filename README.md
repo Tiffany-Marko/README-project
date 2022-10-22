@@ -14,7 +14,7 @@ This README was generated using this "README-project" Application:
 7. [Questions](#questions)
 
 ## Description
-This is a small project designed to produce an don-demand "README" for any project.  
+This is a small project designed to produce an on-demand "README" for any project.  
 
 ## Installation
 This README Generator can be accessed by following the steps prompted after running Node Index.JS from the command line interface. 
@@ -26,10 +26,10 @@ The info here is designed as an aggregate of input from the user when designing 
 License license-1
 
 ## Contributing
-The guidlines here require the user to input their own personal and/or business information (and licensins info) to generate an adequate README file. 
+The guidlines here require the user to input their own personal and/or business information (and license info) to generate an adequate README file. 
 
 ## Tests
-The project requires user input from teh command line (or terminal). 
+The project requires user input from the command line (or terminal). 
 
 ## Questions
 Github: [https://github.com/Tiffany-Marko](https://github.com/Tiffany-Marko)
