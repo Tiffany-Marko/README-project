@@ -1,5 +1,5 @@
-
-# t
+This README was generated using this "README-project" Application:
+# README
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   
@@ -14,25 +14,25 @@
 7. [Questions](#questions)
 
 ## Description
-t
+This is a small project designed to produce an don-demand "README" for any project.  
 
 ## Installation
-t
+This README Generator can be accessed by following the steps prompted after running Node Index.JS from the command line interface. 
 
 ## Usage
-t
+The info here is designed as an aggregate of input from the user when designing a project using GitHub or VS Code. 
 
 ## License
 License license-1
 
 ## Contributing
-t
+The guidlines here require the user to input their own personal and/or business information (and licensins info) to generate an adequate README file. 
 
 ## Tests
-t
+The project requires user input from teh command line (or terminal). 
 
 ## Questions
-Github: [https://github.com/t](https://github.com/t)
-Email: [t](t)
+Github: [https://github.com/Tiffany-Marko](https://github.com/Tiffany-Marko)
+Email: [tiffanyjmarko@gmail.com](tiffanyjmarko@gmail.com)
 
     
